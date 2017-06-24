@@ -1,6 +1,4 @@
-/**
- * Created by xiangyuli on 3/29/17.
- */
+
 public class SearchBST {
     public TreeNode searchBST(TreeNode root, int target) {
         TreeNode curNode = root;

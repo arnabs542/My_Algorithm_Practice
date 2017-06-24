@@ -1,8 +1,5 @@
 package com.laioffer;
 
-/**
- * Created by xiangyuli on 3/17/17.
- */
 public class MyStackByLinkedList {
     private ListNode head;
 

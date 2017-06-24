@@ -1,6 +1,4 @@
-/**
- * Created by xiangyuli on 3/29/17.
- */
+
 public class InsertBST {
     public TreeNode insertBST(TreeNode root, int target) {
         TreeNode newNode = new TreeNode(target);

@@ -1,8 +1,6 @@
 package com.laioffer;
 
-/**
- * Created by xiangyuli on 3/17/17.
- */
+
 public class MyStackByArray {
     private int head;
     private Integer[] array;

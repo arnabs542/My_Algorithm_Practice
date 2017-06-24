@@ -1,6 +1,4 @@
-/**
- * Created by xiangyuli on 3/21/17.
- */
+
 import java.util.*;
 
 public class Test {

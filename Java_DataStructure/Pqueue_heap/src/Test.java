@@ -1,8 +1,6 @@
 import java.util.PriorityQueue;
 
-/**
- * Created by xiangyuli on 3/23/17.
- */
+
 public class Test {
     public static void main(String[] args) {
 //        PriorityQueue<Integer> minHeap = new PriorityQueue<>();

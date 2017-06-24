@@ -1,7 +1,4 @@
-/**
- * I DONT UNDERSTAND!!!!
- *
- */
+
 public class DeleteBST {
     public TreeNode deleteBST (TreeNode root, int target) {
         if (root == null) {

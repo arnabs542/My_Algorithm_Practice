@@ -1,8 +1,5 @@
 import java.util.*;
 
-/**
- * Created by xiangyuli on 4/2/17.
- */
 public class Test {
     public static void main(String[] args) {
         Map<String, Integer> employerNumbers = new HashMap<>();

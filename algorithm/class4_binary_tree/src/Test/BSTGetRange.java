@@ -5,9 +5,6 @@ import Test.TreeNode;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by xiangyuli on 3/22/17.
- */
 
 
 public class BSTGetRange {

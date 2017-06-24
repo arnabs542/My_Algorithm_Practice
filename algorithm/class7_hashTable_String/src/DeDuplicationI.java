@@ -1,6 +1,4 @@
-/**
- * Created by xiangyuli on 4/10/17.
- */
+
 public class DeDuplicationI {
     public String deDup(String input) {
         //null check

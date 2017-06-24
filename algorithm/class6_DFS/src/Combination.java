@@ -1,6 +1,4 @@
-/**
- * Created by xiangyuli on 4/6/17.
- */
+
 public class Combination {
     public void combination(int money_left, int[] coins, int level, int[] sol) {
         if (level == coins.length - 1) {

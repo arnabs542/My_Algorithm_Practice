@@ -1,8 +1,5 @@
 import java.util.*;
 
-/**
- * Created by xiangyuli on 4/3/17.
- */
 
 public class Main {
 

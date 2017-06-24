@@ -1,8 +1,6 @@
 package com.laioffer;
 
-/**
- * Created by xiangyuli on 5/30/17.
- */
+
 public class Remove {
     public ListNode remove(ListNode head, int n) {
         //null check

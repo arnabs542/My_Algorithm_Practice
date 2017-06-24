@@ -2,9 +2,7 @@ package Test;
 
 import Test.TreeNode;
 
-/**
- * Created by xiangyuli on 3/21/17.
- */
+
 public class TraverseInOrder {
     public void inOrder(TreeNode root) {
         //base case

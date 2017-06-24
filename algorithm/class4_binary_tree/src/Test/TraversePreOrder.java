@@ -2,9 +2,6 @@ package Test;
 
 import Test.TreeNode;
 
-/**
- * Created by xiangyuli on 3/21/17.
- */
 public class TraversePreOrder {
     public void preOrder(TreeNode root) {
         //base case

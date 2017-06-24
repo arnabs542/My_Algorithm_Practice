@@ -1,8 +1,5 @@
 package com.laioffer;
 
-/**
- * Created by xiangyuli on 3/15/17.
- */
 public class MergeTwoLinkedList {
     public ListNode mergeTwoLinkedList(ListNode head1, ListNode head2) {
 //corner case: one or two list is null

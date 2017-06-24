@@ -1,8 +1,5 @@
 package com.laioffer;
 
-/**
- * Created by xiangyuli on 3/13/17.
- */
 public class Power {
         public long power(int a, int b) {
             if (b == 0) { return 1;}

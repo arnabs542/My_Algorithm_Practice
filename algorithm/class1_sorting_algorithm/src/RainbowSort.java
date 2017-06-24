@@ -1,6 +1,4 @@
-/**
- * Created by xiangyuli on 4/3/17.
- */
+
 public class RainbowSort {
     public int[] rainbowSort(int[] array) {
         if (array==null||array.length==0) {

@@ -1,8 +1,5 @@
 package com.laioffer;
 
-/**
- * Created by xiangyuli on 3/15/17.
- */
 public class PartitionList {
     public ListNode partitionList(ListNode head, int target) {
 //corner case: null check

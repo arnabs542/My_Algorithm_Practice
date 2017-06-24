@@ -1,6 +1,4 @@
-/**
- * Created by xiangyuli on 4/13/17.
- */
+
 public class MinJump {
     public int minJump(int[] array) {
         //null and empty check

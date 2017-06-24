@@ -1,6 +1,4 @@
-/**
- * Created by xiangyuli on 6/12/17.
- */
+
 import java.util.*;
 public class OrderPermutation {
     public List<String> getPermutation(int n) {

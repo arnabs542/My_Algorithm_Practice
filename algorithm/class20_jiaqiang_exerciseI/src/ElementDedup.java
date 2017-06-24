@@ -1,9 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-/**
- * Created by xiangyuli on 5/1/17.
- */
+
 public class ElementDedup {
     //Q1:sorted array, 消除重复元素，对于重复元素，只保留1个
     //EX: {1, 2, 2, 3, 3, 3} → {1, 2, 3}

@@ -1,8 +1,6 @@
 import java.util.NoSuchElementException;
 
-/**
- * Created by xiangyuli on 4/5/17.
- */
+
 public class MinHeap {
     private int[] array;
     private int size;

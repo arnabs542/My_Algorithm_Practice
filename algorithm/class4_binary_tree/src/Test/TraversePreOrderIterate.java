@@ -4,10 +4,6 @@ import Test.TreeNode;
 
 import java.util.*;
 
-
-/**
- * Created by xiangyuli on 3/21/17.
- */
 public class TraversePreOrderIterate {
 
     public List<Integer> traversePreOrderIterate(TreeNode root) {

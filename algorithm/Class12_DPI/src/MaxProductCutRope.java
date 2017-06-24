@@ -1,6 +1,4 @@
-/**
- * Created by xiangyuli on 4/12/17.
- */
+
 public class MaxProductCutRope {
     public int maxProduct(int length) {
         if (length == 0) {

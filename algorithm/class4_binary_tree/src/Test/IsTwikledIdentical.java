@@ -2,9 +2,6 @@ package Test;
 
 import Test.TreeNode;
 
-/**
- * Created by xiangyuli on 3/22/17.
- */
 
 public class IsTwikledIdentical {
     public boolean isTwikledIdentical(TreeNode root1, TreeNode root2) {

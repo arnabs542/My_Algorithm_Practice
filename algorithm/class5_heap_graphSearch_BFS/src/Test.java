@@ -1,8 +1,5 @@
 import java.util.*;
 
-/**
- * Created by xiangyuli on 3/22/17.
- */
 public class Test {
     public static void main(String[] args) {
 

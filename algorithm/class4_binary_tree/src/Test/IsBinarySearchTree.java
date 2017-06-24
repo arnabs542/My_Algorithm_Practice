@@ -2,9 +2,6 @@ package Test;
 
 import Test.TreeNode;
 
-/**
- * Created by xiangyuli on 3/22/17.
- */
 public class IsBinarySearchTree {
     public boolean checkBST(TreeNode root) {
         if (root==null) {

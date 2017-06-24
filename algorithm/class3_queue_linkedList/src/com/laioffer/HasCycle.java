@@ -1,8 +1,6 @@
 package com.laioffer;
 
-/**
- * Created by xiangyuli on 3/15/17.
- */
+
 public class HasCycle {
     public boolean hasCycle(ListNode head) {
         // corner case: if list is null or list only has 1 node, return false,no cycle

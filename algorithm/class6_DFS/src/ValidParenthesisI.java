@@ -1,6 +1,3 @@
-/**
- * Created by xiangyuli on 4/6/17.
- */
 
 import java.util.*;
 

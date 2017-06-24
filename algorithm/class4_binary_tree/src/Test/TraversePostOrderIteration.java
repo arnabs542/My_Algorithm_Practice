@@ -7,9 +7,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * Created by xiangyuli on 3/21/17.
- */
+
 public class TraversePostOrderIteration {
     public List<Integer> traversePostOrderIteration(TreeNode root) {
         //corner case: null check

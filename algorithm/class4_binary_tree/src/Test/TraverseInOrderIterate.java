@@ -1,6 +1,4 @@
-package Test; /**
- * Created by xiangyuli on 3/21/17.
- */
+package Test; 
 
 import Test.TreeNode;
 

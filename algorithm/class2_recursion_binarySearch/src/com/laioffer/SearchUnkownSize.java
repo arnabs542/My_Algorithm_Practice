@@ -1,8 +1,6 @@
 package com.laioffer;
 
-/**
- * Created by xiangyuli on 3/14/17.
- */
+
 public class SearchUnkownSize {
 //    public int search(Dictionary array, int target) {
 //        //null check

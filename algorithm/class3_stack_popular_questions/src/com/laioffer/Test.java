@@ -2,9 +2,7 @@ package com.laioffer;
 
 import java.util.Deque;
 
-/**
- * Created by xiangyuli on 3/16/17.
- */
+
 public class Test {
     public static void main(String[] args) {
 //        testMinStackWithDuplicate();

@@ -2,9 +2,6 @@ package com.laioffer;
 
 import java.util.*;
 
-/**
- * Created by xiangyuli on 3/16/17.
- */
 public class MinStackNoDuplicate {
 
         //attribute
